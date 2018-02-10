@@ -2,7 +2,7 @@
 "name": "Test",
 "descriotion": "Test",
 "version": "0.0.0",
-"main": "bot.js",
+"main": "kawaii.py",
 "scripts": {
   "start": "node kawaii.py"
   },
