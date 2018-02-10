@@ -39,7 +39,7 @@ async def on_message(message):
 
 
 
-client.run("NDExNTcwODE5ODc4MzU0OTU0.DV9oww.BmpZspcD0SQ2jPW_y9tVzCI7MaQ")
+client.run(BOT_TOKEN)
 
 #    elif message.content.startswith('.........'):
 #        kawaii_X = random.choice(['choice1','choice2','choice3'])
